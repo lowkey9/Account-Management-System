@@ -1,6 +1,7 @@
 # Account-Management-System
 
 ECE 503 Final Project
+
 This program implement an account management system which manage a srock portfolio account and a bank account.
 
 The stock portfolio account has the following function:
